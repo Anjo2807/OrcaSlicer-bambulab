@@ -1,4 +1,4 @@
-# THIS IS AN ARCHIVE OF THE (https://github.com/FULU-Foundation/OrcaSlicer-bambulab)[FULU FOUNDATION REPO], THIS EXISTS FOR ARCHIVAL PURPOSES
+# THIS IS AN ARCHIVE OF https://github.com/FULU-Foundation/OrcaSlicer-bambulab, THIS EXISTS FOR ARCHIVAL PURPOSES
 
 <div align="center">
 
